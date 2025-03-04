@@ -29,7 +29,7 @@ ACCESS_TOKEN_SECRIT=myToken
 
 3. Run the server:
    ```sh
-   npm start
+   npm run dev
    ```
 
    The server will start on `http://localhost:5000` (or the port defined in the `.env` file).
